@@ -15,8 +15,6 @@ using namespace std;
 // The list itseld must be allocated
 GroupList* gList;
 
-// ECE244 Student: you may want to add the prototype of
-// helper functions you write here
 bool nameexists =false;
 bool groupexists =false;
 bool shapeexists =false;
